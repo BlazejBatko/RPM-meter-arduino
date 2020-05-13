@@ -13,7 +13,7 @@ RPM (Revolutions per minute) – the number of revolutions per minute.
 
 ## Built
 
-Code wrote in C++ using Arduino IDE software
+Code written in C++ using Arduino IDE software
 
 ## Parts used
 - neodyimium magnet
