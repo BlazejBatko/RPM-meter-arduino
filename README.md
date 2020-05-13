@@ -16,14 +16,14 @@ RPM (Revolutions per minute) – the number of revolutions per minute.
 Code wrote in C++ using Arduino IDE software
 
 ## Parts used
--neodyimium magnet
--Arduino Uno
--LED + resistor 220 Ohm
--Hall-Effect Sensor - a3144
--resistor 10 k
--Wires
--Breadboard
--LCD 1602
+- neodyimium magnet
+- Arduino Uno
+- LED + resistor 220 Ohm
+- Hall-Effect Sensor - a3144
+- resistor 10 k
+- Wires
+- Breadboard
+- LCD 1602
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
