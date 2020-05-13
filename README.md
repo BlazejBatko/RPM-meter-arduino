@@ -7,7 +7,7 @@ Simple code for Arduino Project I made.
 ![Instructions](https://i.imgur.com/3yqL5DQ.png)
 
 ## Preview
-![Alt Text](http://g.recordit.co/8HuPeMiw59.gif)
+![Alt Text](http://g.recordit.co/sEBjY8AEaN.gif)
 
 
 ## Built
